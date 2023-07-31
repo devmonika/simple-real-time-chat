@@ -1,11 +1,11 @@
 # React + Vite
 
 Download or clone this repo.
-run: npm install
+run:  # npm install
 
 create a firebase.js file in the root dir.
 
-code:
+ code:
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
